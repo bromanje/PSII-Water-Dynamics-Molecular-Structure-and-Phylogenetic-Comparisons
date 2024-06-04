@@ -1,7 +1,7 @@
 # PSII-Water-Dynamics-from-Molecular-Structure-and-Phylogenetic-Comparisons
 Describe photosystem II (PSII) Water channel dynamics through molecular modeling and phylogenetic comparative methods.
 
-This work is the pfoduct of an AG2PI seed grant.
+This work is the product of an AG2PI seed grant.
 The study implemented, takes a two pronged approach:
   1) Molecular modeling of the Photosystem II protein complex
   2) Phylogenetic comparative methods
